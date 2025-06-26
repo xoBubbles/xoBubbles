@@ -12,7 +12,7 @@
 
 - Particle physics spec.
 - I love engineering
-- Currently working on my home NAS
+- Currently working on my home lab!
 - Doing cool stuff with **Minescript** [↗](https://github.com/maxuser0/minescript)
 - Soon only available on **Element** [↗](https://github.com/element-hq)
 <br><br><br>
